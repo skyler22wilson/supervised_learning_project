@@ -2,7 +2,7 @@
 
 ## Project Goal
 My goal for this project was to gain a better undertstanding of the end-to-end process of developing an accurate machine learning model to make predictions on real life data. Additionally I wanted to get a better grasp on hyperparameter tuning and transforming featurs to enhance my models
-### Challenged:
+### Challenges:
 I decided to use two machine leanring models that are computationally expensive, so using GridSearchCV to find the optimal model took an extremly long time. Additionally, I noticed that the data used was right-skewed heavily, while i was able to transform a couple features, some i was unable to transform properly
 ### Project Workflow:
 1. Performed EDA on the data set, this inluded:
